@@ -1,0 +1,17 @@
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Raleway&display=swap');
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+:root {
+    --footer : hsl(216, 53%, 9%);
+    --background : hsl(218, 28%, 13%);
+    --background-tm: hsl(219, 30%, 18%);
+    --background-email: hsl(217, 28%, 15%);
+    --background-ft: hsl(216, 53%, 9%);
+
+    --sans: 'Open Sans', sans-serif;
+    --raleway: 'Raleway', sans-serif;
+}
